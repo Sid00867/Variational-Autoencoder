@@ -7,7 +7,7 @@ Trained and evaluated on the publicly available CIFAR-10 dataset [60k 32x32x3 im
 
 ## Reconstructions comparison (top - dataset image, bottom - reconstruction)
 
-![Reconstructions (latent dim size - 32, 30 epochs)](reconstructions.png)
+![Reconstructions (latent dim size - 32, 30 epochs)](reconstructions.png) (latent dim size - 32, 30 epochs)
 ![Reconstructions (latent dim size - 64, 60 epochs)](reconstructions%20(1).png)
 
 ## Randomly Sampled latents from prior distribution
